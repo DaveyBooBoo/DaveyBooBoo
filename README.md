@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaveyBooBoo
+- 👋 Hi, I’m @DavisStroud
 - 👀 I’m interested in Data Analystics 
 - 🌱 I’m currently learning SQL & Python
 - 💞️ I’m looking to collaborate on Python Projects
